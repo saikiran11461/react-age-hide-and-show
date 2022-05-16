@@ -8,22 +8,22 @@ function App() {
     {avatarurl:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTmD-85JUzyxhkFGaXLjrFMnWNayaRu9OQLKA&usqp=CAU",
      name:"pinky",
      email:"pinky@gmail.com",
-     age:"19"
+     age:"9112233440"
   },
   {avatarurl:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS-7shPfGOlIjzTUcVskomX24oNL6ZeBVs1iw&usqp=CAU",
   name:"srikanth",
   email:"srikanth@gmail.com",
-  age:"20"
+  age:"56789305543"
   },
   {avatarurl:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT8kL7atCwX2mYetj7lstIZBbmxSzfsImuFsw&usqp=CAU",
    name:"merry",
    email:"merry@gmail.com",
-   age:"21"
+   age:"8687799343"
 },
 {avatarurl:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSf1mz-ClZxbNEiX4VwNZM32vD35SPXHrUMkQ&usqp=CAU",
 name:"angle",
 email:"angel@gmail.com",
-age:"22"
+age:"238306349234"
 }
   ];
 

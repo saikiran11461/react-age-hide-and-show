@@ -14,7 +14,7 @@ const ContactCard = (props) =>{
         <div className='user-details'>
             <h3>{props.name}</h3>
             <p>{props.email}</p>
-            <button onClick={setHandler}>show age</button>
+            <button onClick={setHandler}>show number</button>
              {showage ?  <p>{props.age}</p> : null }
         </div>
       </div>
